@@ -8,6 +8,11 @@ This project consists of a basic website with specificity of Navigation Bar and 
 
 Texts like those in about and terms of use pages have been pulled off from random sample template websites.
 
+I was facing some issues with adding screenshots in a folder. Thus in that light, click on "Create Screenshots" beside the "Screenshots" file, 
+and then you can view the screenshots of this particular website as a comment. 
+I have also uploaded a PDF with the screenshots in the main folder.
+Apologies for this inconvinience.
+
 
 
 
